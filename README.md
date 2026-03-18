@@ -6,7 +6,12 @@ A full-stack application for managing users, organizations, and hierarchical str
 [![Next.js](https://img.shields.io/badge/Next.js-14-green)](https://nextjs.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-## 📱 Live Demo
+## 📱 Repositories
+
+- **Backend:** [NTC-UMS-Backend](https://github.com/kushalnepal/NTC-UMS-Backend)
+- **Frontend:** [NTC-UMS-Frontend](https://github.com/kushalnepal/NTC-UMS-Frontend)
+
+## 🌐 Live Demo
 
 - **Frontend:** https://ntc-ums-frontend.kushalnepal.com.np
 - **Backend API:** https://ntc-ums-backend.kushalnepal.com.np
